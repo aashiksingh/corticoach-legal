@@ -110,7 +110,7 @@ Manage your subscription via Apple ID settings (see Section 10)
 
 9) Children’s privacy
 
-CortiCoach is not intended for children under 13. If you believe a child has provided personal information, contact [YOUR SUPPORT EMAIL].
+CortiCoach is not intended for children under 13. If you believe a child has provided personal information, contact aashiksingh@gmail.com.
 
 10) Subscription management (Apple)
 
@@ -119,7 +119,7 @@ Settings > Your name > Subscriptions > CortiCoach > Cancel Subscription.
 
 11) Changes to this policy
 
-If we change this policy, we’ll update the “Effective date” and post the updated policy at: [YOUR PRIVACY POLICY URL].
+If we change this policy, we’ll update the “Effective date” and post the updated policy at: https://aashiksingh.github.io/corticoach-legal/privacy.
 
 12) Contact
 
