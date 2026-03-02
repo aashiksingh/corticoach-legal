@@ -101,7 +101,7 @@ These Terms are governed by the laws of South Africa, without regard to conflict
 
 14) Changes to these Terms
 
-If we update these Terms, we’ll revise the “Effective date” and publish the latest version at: [YOUR TERMS URL].
+If we update these Terms, we’ll revise the “Effective date” and publish the latest version at: https://aashiksingh.github.io/corticoach-legal/terms.
 
 15) Contact
 
